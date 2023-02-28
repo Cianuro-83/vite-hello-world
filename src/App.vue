@@ -29,27 +29,27 @@ TEMPLATE
 
 <template>
   <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
+    <img
+      src="./assets/LOGO CIANURO CODING_ICONA ROUND 25X25.png"
+      class="logo"
+      alt="Logo Simone Cianuro Buzzeo"
+    />
     <AppTitle />
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
+    <img
+      src="./assets/LOGO CIANURO CODING_ICONA ROUND 25X25.png"
+      class="logo"
+      alt="Logo Simone Cianuro Buzzeo"
+    />
   </div>
 </template>
 
 <style scoped>
 .logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
+  height: 12em;
+  padding: 1reem;
   transition: filter 300ms;
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
 }
 </style>
