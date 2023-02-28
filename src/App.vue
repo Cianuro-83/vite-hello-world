@@ -11,14 +11,7 @@ export default {
     AppTitle,
   },
   data() {
-    return {
-      message: "Ciao mondo sono io!",
-    };
-  },
-  methods: {
-    sayHello() {
-      console.log("Ciao!");
-    },
+    return {};
   },
 };
 </script>
